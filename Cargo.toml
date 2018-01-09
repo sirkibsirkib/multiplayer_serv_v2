@@ -1,0 +1,9 @@
+[package]
+name = "multiplayer_serv_v2"
+version = "0.1.0"
+authors = ["sirkibsirkib <christopher.esterhuyse@gmail.com>"]
+
+[dependencies]
+magnetic = "2.0.0"
+rand = "0.4.2"
+clap = "2.29.0"
